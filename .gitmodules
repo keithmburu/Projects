@@ -1,3 +1,27 @@
 [submodule "digital-piano"]
 	path = digital-piano
 	url = https://github.com/keithmburu/digital-piano.git
+[submodule "board-games"]
+	path = board-games
+	url = https://github.com/keithmburu/board-games.git
+[submodule "gif-search"]
+	path = gif-search
+	url = https://github.com/keithmburu/gif-search.git
+[submodule "image-processing"]
+	path = image-processing
+	url = https://github.com/keithmburu/image-processing.git
+[submodule "open-domain-question-answering"]
+	path = open-domain-question-answering
+	url = https://github.com/keithmburu/open-domain-question-answering.git
+[submodule "microprocessor"]
+	path = microprocessor
+	url = https://github.com/keithmburu/microprocessor
+[submodule "pong-arcade-game"]
+	path = pong-arcade-game
+	url = https://github.com/keithmburu/pong-arcade-game.git
+[submodule "compiler"]
+	path = compiler
+	url = https://github.com/keithmburu/compiler.git
+[submodule "music-genre-classifier"]
+	path = music-genre-classifier
+	url = https://github.com/keithmburu/music-genre-classifier.git
