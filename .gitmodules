@@ -1,0 +1,3 @@
+[submodule "digital-piano"]
+	path = digital-piano
+	url = https://github.com/keithmburu/digital-piano.git
